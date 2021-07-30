@@ -1,2 +1,3 @@
 # week-8-task
-learning to create an application using react. 
+# this is a recreation of an application using a template from a tutor.
+thanks for reading this readme
